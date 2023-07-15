@@ -1,0 +1,18 @@
+[
+  {
+    "source_text": "Ödeme yapmama rağmen neden hala borcum gözüküyor?",
+    "target_text": "Why do I still have debt even though I paid?"
+  },
+  {
+    "source_text": "Why do I still have debt even though I paid?",
+    "target_text": "Ödediğim halde neden hala borcum var?"
+  },
+  {
+    "source_text": "Ödediğim halde neden hala borcum var?",
+    "target_text": "Why am I still in debt even though I paid?"
+  },
+  {
+    "source_text": "Why am I still in debt even though I paid?",
+    "target_text": "Ödememe rağmen neden hala borcum var?"
+  }
+]

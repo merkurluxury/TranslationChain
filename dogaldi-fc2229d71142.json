@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dogaldi",
+  "private_key_id": "fc2229d71142bbdb3ff11c1aaee61bfa04863c0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDP+3wr4HlVQb1f\ncvg4fkodvxPEj9w3+2SgyonTjdHEs7ts/uZiI2mr0/RBJBsjQNJVUmtZvyXjhm5y\nPf9pidcuRatgxBIxl66X8ExdBnKjiK8c9oCf2/97K5/PTBwyKQ0vBHbp711g/k/1\nmF7WjLz9SQ0AqQHFyC1L1MiVkdC2K/q/F6GHoh6YkZtz1evTintnLDSzxucah+Qg\nEyirpICWPBEiE56rR4CQk5FXekToq5Hbah9M9jkxrmSlthM/OWwWQ2Gb92C5DNFe\nwtt2wnBPP5PH6rP8SGXe/WYmDuXAtqlkED1FDZWcmj/yQx9U79zZKnfYivzhZztm\nWUxJ9BI/AgMBAAECggEAS2vxbZ/roCVE3VY9+Y6ipgLi0kcxHwQFS+Hm9VbamTBs\naWxOc4xQB8XHL9A+HxykqdhHobYVsVrQtpERDF62L8uICIFR77YH1IWJy7pI3FD2\n39PsdQw8q5f4Th5Vo0MLyt8dmFv7Su8uY+uriLZk2p0hH/op8GVVN8ikLMlCHK1S\nXbwmem7T7txfFkfIykQks9CmtacMzTv8/P9Q7jrXdjMBZZqdWvZjkUDAUfgrde+u\nvCGncN9YYYAdfvBq0lfFiLIzwFQNCypGKDwVekMxFdxnCrCl70CJbQ3wc0hfvVqh\nnnCzg8pjlYUsymWLJOwoxso21+el86GOjB7zfshE0QKBgQD42YtwNFBNDDEF1mVw\nXrH9RAtotGfDTWuTx0rKsozrWLxPDOmEtz8Ol2u3KSJiZlzlw6kaz9oMVOS0K6f9\nTCQsQGcfdd0+ngWXO/hG581KmyRVT8tAIiVy54CThDHwJqb4Dho20LgmfL7G88zY\nRY2w7A6CUvQTUPLKPYwtgXO1uwKBgQDV9VVXR1PRcakDiznQrnbTfhda70KA+SiG\nzEB+ZpP6T4EZIgaWafbWq78y+Z8R/U7F0U2Ms6vFGbUKQhuYlJZcM/b3pWdwCVOx\nHVEUJ/kYxCPlDWv9TMkKj6fDmncBTYN/3FLbKyFe1rAUttOhR1xWKZ0onxdxFHTZ\ndFDyxeArTQKBgEMIpw0kqnT20cXWySCKAbxNth0Qa9sqYc4/IyCTFG7ZSnCo88ay\nbiQKGhQO2ppTJLcoC8eTMhOcUrdOA0SyXBQnjR/maiDSBIOGvgyrqJtuS01H32J5\nUEkxn2sdcy5T2yp68gjOFK0ZcXK6ffXMVqzQCeCFZAZICf78sWQYuQi9AoGBAKBQ\nF6ay0hHfuQTnv+Ulo/EpzDQdi9X5Wq1Nw5EyKPRnt9JuFUOEmCgXPcbjFJY1F13P\nSuz+/thLP8Q07lpwEw14/jZmX8+pnWTbE5IntVQiOsb4PI7phsV8B/be+QYn3zzh\nh8+iTHm0IPEUYBO61WvV+GSkd7sJ2dfJeJG/RA0NAoGAH9HzJ9AaKKv0YuzZDECX\nyH0qsBXNKrPXJdHA3WMwwJYZY7Q9DzTA5DI4LBqgKqmEF0HfvuZII6TKvZ9BO1/w\njV4/xzALE/m0JwNpdA2mQaNJgBLeFkeE7bj0YqHvHbMM46SlSy7C7D+t5Nm8ymSv\npGEDHhnjJq9znLb7kb9dvLc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dogaldi@dogaldi.iam.gserviceaccount.com",
+  "client_id": "113221622416327710097",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dogaldi%40dogaldi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
